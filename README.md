@@ -1,7 +1,7 @@
 # Hola! Soy Brann ✌👓💻
-Estoy en proceso de ser un backend developer, por recomendacion me dijeron que estudie lo que esta en el mercado de mi localidad.
-Es por eso que estoy en una ruta de aprendizaje de PHP, Composer y Laravel.
-En la parte de frontend me defiendo con el maquetado en HTML, CSS/SASS y Javascript. 
+Estoy en proceso de ser un solido backend developer.
+En una ruta de aprendizaje de PHP, Composer y Laravel.
+En frontend se maquetado en HTML, CSS/SASS y Javascript y en proceso de aprender VueJS. 
 Me gusta el dibujo, hacer deporte y nuevos retos de aprendizaje en lo tecnologico.
-Un gusto y espero seguir adelante.
+Un gusto y espero seguir aprendiendo.
 
